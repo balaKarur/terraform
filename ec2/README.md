@@ -1,2 +1,3 @@
 # terraform
-Terraform full tutorial from zero to hero
+
+terraform for ec2 instance creation
