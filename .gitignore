@@ -1,5 +1,7 @@
 # terraform
-*.exe
-*.txt
+
 *.tfstate
+*.backup
+*.hcl
+.terraform
 
